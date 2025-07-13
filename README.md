@@ -47,12 +47,6 @@ I believe that:
 - Building my first **UI/UX portfolio projects** in Figma
 - Learning how to make beautiful, responsive websites
 
----
-
-### 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
-- [Portfolio](https://your-portfolio-link.com/) *(optional)*  
-- 📧 Email: siddhi@example.com *(replace with yours)*
 
 ---
 
