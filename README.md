@@ -1,5 +1,64 @@
-# 💫 About Me:
-I am a BCA student learning Full stack development.
+<h1 align="center">Hi, I’m Siddhi Kasurde 👋</h1>
+
+<p align="center">🎨 UI/UX Enthusiast | 📊 Data Explorer | 💻 Frontend Newbie | 📚 Lifelong Learner</p>
+
+---
+
+### ✨ About Me
+
+Hey there! I’m **Siddhi** — part designer, part data whisperer, and full-time curious mind ✨
+
+🎓 I’m currently pursuing a degree in **BCA** and diving deep into:
+- 📊 **Data Analytics** – making messy data tell meaningful stories
+- 🎨 **UI/UX Design** – crafting intuitive, human-first interfaces with Figma
+- 💻 **Frontend Development** – bringing ideas to life with HTML, CSS, JavaScript
+
+I believe that:
+> 🧠 Good design should feel invisible,  
+> 📈 Good data should make you go “oh wow,”  
+> 💡 And good code should be fun to write (and read).
+
+---
+
+### 🛠 Tools I’m Learning & Loving
+
+<div align="left">
+
+🌐 **Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+📊 **Data Analytics:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+
+🎨 **Design & Prototyping:**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+
+</div>
+
+---
+
+### 🌱 Currently Working On
+- Finishing the **Google Data Analytics Certificate**
+- Building my first **UI/UX portfolio projects** in Figma
+- Learning how to make beautiful, responsive websites
+
+---
+
+### 📫 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
+- [Portfolio](https://your-portfolio-link.com/) *(optional)*  
+- 📧 Email: siddhi@example.com *(replace with yours)*
+
+---
+
+> 🌟 “Work in progress — just like every great product.”
+
+
 
 
 ## 🌐 Socials:
