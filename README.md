@@ -18,7 +18,7 @@ Hey there! I’m **Siddhi** — part designer, part data whisperer, and full-tim
 
 I believe that:
 > 🧠 Good design should feel invisible,  
-> 📈 Good data should make you go “oh wow,”now i get it!  
+> 📈 Good data should make you go “oh wow, now i get it!"  
 > 💡 And good code should be fun to write 
 ---
 
