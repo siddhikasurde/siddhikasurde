@@ -2,7 +2,7 @@
 <p align="center">🎨 UI/UX Enthusiast | 📊 Data Analyst | 💻 Frontend Learner | 📚 Lifelong Explorer</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" />
 </div>
 
 ---
@@ -40,6 +40,38 @@ I believe that:
 
 ---
 
+### 📫 Let’s&nbsp;Connect!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/siddhikasurde/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:siddhi.k@somaiya.edu" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/siddhikasurde" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/siddhii.k_7/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+   🤝 Always happy to connect, collaborate, or brainstorm creative ideas.  
+  Ping me on any platform above — I’m always up for a chat about design, data or the latest Figma obsession!  
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -48,13 +80,6 @@ I believe that:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhiKasurde&layout=compact&theme=gradient)
 
 </div>
-
----
-
-### 📫 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/siddhikasurde/) 
-- 📬 Email: siddhi.k@somaiya.edu 
 
 ---
 
