@@ -2,7 +2,7 @@
 <p align="center">🎨 UI/UX Enthusiast | 📊 Data Analyst | 💻 Frontend Learner | 📚 Lifelong Explorer</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
 </div>
 
 ---
